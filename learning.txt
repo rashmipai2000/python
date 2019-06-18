@@ -1,0 +1,32 @@
+Write a program to print your name
+ how to start the program?(any preprocessor directives)
+ to find the standard library function to carry out the problem
+ what is the syntax to execute the problem
+
+Write a program to add two numbers
+ how to start the program?(any preprocessor directives)
+ input functions(to enter two numbers)
+ compute function(to add two numbers)
+ output function(to output the added result)
+
+
+ Write a program to compare two number and print the smallest
+   how to start the program?(any preprocessor directives)
+   enter the two numbers
+   compare functin to compare them
+   print the smallest of two numbers
+
+Compare three numbers and print the greatest of three numbers
+   how to start the program?(any preprocessor directives)
+   enter the three numbers
+   compare function to compare them
+   print the greatest of three numbers
+   
+write a program to add n different numbers
+
+
+output a tuple of following problem
+a=b; c=d; e=f; g=h;
+ 
+ 
+ 
