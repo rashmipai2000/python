@@ -3,7 +3,7 @@ def inputval():
     return x
 def compute(x):
     m=x.split(",")
-    for i in range(len(m)):
+    for i in range(len(m)):#to use 1 for loop insted of 2 for loops
         m[i]=m[i].split("=")
         m[i]=tuple(m[i])
     return m   
