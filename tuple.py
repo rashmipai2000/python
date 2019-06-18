@@ -5,7 +5,6 @@ def compute(x):
     m=x.split(",")
     for i in range(len(m)):
         m[i]=m[i].split("=")
-    for i in range(len(m)):
         m[i]=tuple(m[i])
     return m   
 def output(m):#pass parameters to output function
